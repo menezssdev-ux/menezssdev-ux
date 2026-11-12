@@ -1,16 +1,22 @@
-## Hi there 👋
+# Oi, aqui é menezss
 
-<!--
-**menezssdev-ux/menezssdev-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Faço **sites para negócios locais**: restaurantes, salões, lojas e prestadores de serviço. Sites rápidos, feitos para celular, com cardápio ou catálogo e pedidos pelo WhatsApp.
 
-Here are some ideas to get you started:
+## O que eu entrego
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Cardápio ou catálogo fácil de atualizar
+- Pedido montado no site e enviado pronto para o WhatsApp
+- Reservas e agendamentos
+- Horários, mapa e aviso de aberto ou fechado em tempo real
+
+## Projeto em destaque
+
+**Vixe Comida Regional** (projeto de demonstração): site de pedidos para um restaurante de comida regional, com cardápio de 26 itens, carrinho, entrega ou retirada e reserva de mesa.
+
+## Ferramentas
+
+HTML · CSS · JavaScript
+
+## Contato
+
+E-mail: menezssdev@gmail.com
